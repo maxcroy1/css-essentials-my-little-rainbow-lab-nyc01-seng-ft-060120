@@ -72,7 +72,7 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 #violet {
-  border: 20px solid pink;
+  border: 20px solid magenta;
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
