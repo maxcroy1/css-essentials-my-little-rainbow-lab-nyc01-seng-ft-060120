@@ -71,7 +71,7 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-#violet {
+#indigo {
   border: 20px solid indigo;
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
