@@ -52,7 +52,7 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 #blue {
-border: 20px solid red;
+  border: 20px solid blue;
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
   min-height: 25em; /* of the divs oblong*/
